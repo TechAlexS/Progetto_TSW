@@ -6,7 +6,7 @@
   <!-- Basic Page Needs
   ================================================== -->
   <meta charset="utf-8">
-  <title>The Spectacles| E-commerce </title>
+  <title>The Spectacles | E-commerce </title>
 
   <!-- Mobile Specific Metas
   ================================================== -->
